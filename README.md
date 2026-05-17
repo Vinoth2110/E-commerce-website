@@ -1,4 +1,4 @@
-﻿# E-commerce-website
+
 # QuickKart – E-Commerce Website
 
 QuickKart  is a modern React-based e-commerce website built using Vite. This project includes a responsive shopping UI with product cards, cart functionality, login/signup options, mobile responsive layout, dark mode support, and a clean user interface.
