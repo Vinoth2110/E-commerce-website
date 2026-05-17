@@ -124,6 +124,10 @@ Home page
 ![image alt](https://github.com/Vinoth2110/E-commerce-website/blob/f97a05ba57eb4ed10a221bd585aea2bdefe601ed/Screenshot%202026-05-17%20211150.png)
 
 
+Products page
+
+![image alt](https://github.com/Vinoth2110/E-commerce-website/blob/c6a1a0ae3c97602ec0e4db676d5e85da6991102f/Screenshot%202026-05-17%20211319.png)
+
 ## Deployment
 
 You can deploy this project using:
