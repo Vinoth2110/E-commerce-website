@@ -139,6 +139,4 @@ You can deploy this project using:
 
 Frontend Developer | React Developer | UI/UX Designer
 
-## License
 
-This project is open-source and free to use.
