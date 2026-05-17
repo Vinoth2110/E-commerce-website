@@ -135,6 +135,7 @@ Contact page
 
 Cart section
 
+![image alt](https://github.com/Vinoth2110/E-commerce-website/blob/bd157b707a6520db5fa78a7145aa4392d4147343/Screenshot%202026-05-17%20211510.png)
 
 ## Deployment
 
