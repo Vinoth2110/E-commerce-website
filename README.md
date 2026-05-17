@@ -139,8 +139,7 @@ Cart section
 
 Live Demo
 
---md
-![🔗 Live Website]: (https://github.com/Vinoth2110)
+[🔗 Live Website]: (https://github.com/Vinoth2110)
 
 
 
