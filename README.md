@@ -122,7 +122,7 @@ npm run build
 Add your project screenshots here.
 
 ```md
-![image alt](screenshot.png)
+![image alt](https://github.com/Vinoth2110/E-commerce-website/blob/f97a05ba57eb4ed10a221bd585aea2bdefe601ed/Screenshot%202026-05-17%20211150.png)
 ```
 
 ## Deployment
